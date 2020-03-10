@@ -25,8 +25,14 @@ public class ImplParkingLot implements InterfaceParkingLot{
 			ConstantaParkigLot.parkingLotSlot [availableSlot] = numberPlate.concat(",").concat(color);
 			return "Allocated slot number: ".concat(String.valueOf(availableSlot+1));
 		}
-		//asdbabababa
+		
+		
+		
+		
+		//asdba
 		return "Sorry, parking lot is full kontol";
+		
+	}
 		
 	}
 
