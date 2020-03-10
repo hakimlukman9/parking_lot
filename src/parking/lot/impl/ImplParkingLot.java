@@ -26,7 +26,7 @@ public class ImplParkingLot implements InterfaceParkingLot{
 			return "Allocated slot number: ".concat(String.valueOf(availableSlot+1));
 		}
 		
-		return "Sorry, parking lot is full";
+		return "Sorry, parking lot is full kontol";
 		
 	}
 
